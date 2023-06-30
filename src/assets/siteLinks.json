@@ -2,36 +2,44 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://own.evanora.top/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "link": "https://alist.evanora.top/"
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "name": "仓库/商店",
+    "link": "https://store.evanora.top/"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "name": "辅助邮箱",
+    "link": "https://webmail.evanora.top/"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "产品文档",
+    "link": "https://explanation.evanora.top/"
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "name": "自用AI中介",
+    "link": "https://ai.evanora.top/"
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "免费资源",
+    "link": "https://freeresources.evanora.top/"
+  }
+  ,
+  {
+    "icon": "LaptopCode",
+    "name": "Github代下载",
+    "link": "http://pdfs.evanora.top/"
   }
 ]
+
+
